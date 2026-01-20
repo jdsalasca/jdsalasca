@@ -1,5 +1,5 @@
 ﻿<div align="center">
-  <img src="assets/cats/onepiece-2.gif" alt="One Piece banner" width="900" />
+  <img src="assets/cats/banner-onepiece.jpg" alt="One Piece banner" width="900" />
   <h1>Hi, I am JD Salasca</h1>
   <p>I build useful, clean, and memorable products. I enjoy solving hard problems and collaborating with curious teams.</p>
   <p>
