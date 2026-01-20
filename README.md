@@ -1,7 +1,12 @@
 ﻿<div align="center">
   <img src="assets/cats/banner-onepiece.jpg" alt="One Piece banner" width="900" />
-  <h1>Hi, I am JD Salasca</h1>
+  <h1>Hello, I am Juan David Salas Camargo</h1>
   <p>I build useful, clean, and memorable products. I enjoy solving hard problems and collaborating with curious teams.</p>
+  <p>
+    <img alt="Sparkles" src="https://img.shields.io/badge/%E2%9C%A8-sparkles-FFD166?style=flat" />
+    <img alt="Coffee" src="https://img.shields.io/badge/%E2%98%95-coffee-F4A261?style=flat" />
+    <img alt="Cat" src="https://img.shields.io/badge/%F0%9F%90%B1-cat-90E0EF?style=flat" />
+  </p>
   <p>
     <a href="https://www.linkedin.com/in/jdsalasca/">
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-jdsalasca-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -52,3 +57,4 @@ Backend developer focused on Java and Spring Boot. I am curious, love challenges
 
 - LinkedIn: https://www.linkedin.com/in/jdsalasca/
 - GitHub: https://github.com/jdsalasca
+ - Thanks for stopping by! 🙌
