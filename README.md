@@ -1,5 +1,5 @@
 ﻿<div align="center">
-  <img src="assets/cats/cat-4.gif" alt="Cat banner" width="900" />
+  <img src="assets/cats/onepiece-2.gif" alt="One Piece banner" width="900" />
   <h1>Hi, I am JD Salasca</h1>
   <p>I build useful, clean, and memorable products. I enjoy solving hard problems and collaborating with curious teams.</p>
   <p>
@@ -43,9 +43,9 @@ Backend developer focused on Java and Spring Boot. I am curious, love challenges
 ## Old-school One Piece corner
 
 <div align="center">
-  <img src="assets/cats/onepiece-1.gif" alt="One Piece gif 1" width="220" />
-  <img src="assets/cats/onepiece-2.gif" alt="One Piece gif 2" width="220" />
-  <img src="assets/cats/onepiece-3.gif" alt="One Piece gif 3" width="220" />
+  <img src="assets/cats/onepiece-1.gif" alt="One Piece gif 1" width="220" height="160" />
+  <img src="assets/cats/onepiece-2.gif" alt="One Piece gif 2" width="220" height="160" />
+  <img src="assets/cats/onepiece-3.gif" alt="One Piece gif 3" width="220" height="160" />
 </div>
 
 ## Contact
