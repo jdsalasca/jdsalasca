@@ -16,9 +16,7 @@
 
 ## About me
 
-- I like creative projects with real impact.
-- I build clear interfaces and solid backends.
-- I am open to new ideas and collaborations.
+Backend developer focused on Java and Spring Boot. I am curious, love challenges, and enjoy learning new things. I care about contributing to my community, and I am eager to grow and create impact in a new world. If you want to build something meaningful together, feel free to reach out.
 
 ## Tech stack (based on my repos)
 
@@ -42,12 +40,12 @@
   <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdsalasca&layout=compact&title_color=F97316&text_color=0F172A&icon_color=22C55E&bg_color=FFF7ED" />
 </p>
 
-## Cat lounge
+## Old-school One Piece corner
 
 <div align="center">
-  <img src="assets/cats/cat-1.gif" alt="Cat gif 1" width="220" />
-  <img src="assets/cats/cat-2.gif" alt="Cat gif 2" width="220" />
-  <img src="assets/cats/cat-3.gif" alt="Cat gif 3" width="220" />
+  <img src="assets/cats/onepiece-1.gif" alt="One Piece gif 1" width="220" />
+  <img src="assets/cats/onepiece-2.gif" alt="One Piece gif 2" width="220" />
+  <img src="assets/cats/onepiece-3.gif" alt="One Piece gif 3" width="220" />
 </div>
 
 ## Contact
