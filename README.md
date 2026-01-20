@@ -1,7 +1,7 @@
 ﻿<div align="center">
-  <img src="https://placekitten.com/1200/320" alt="Banner de gatos" />
-  <h1>Hola, soy JD Salasca</h1>
-  <p>Construyo productos utiles, limpios y con personalidad. Me gustan los retos y colaborar en equipos curiosos.</p>
+  <img src="assets/cats/cat-4.gif" alt="Cat banner" width="900" />
+  <h1>Hi, I am JD Salasca</h1>
+  <p>I build useful, clean, and memorable products. I enjoy solving hard problems and collaborating with curious teams.</p>
   <p>
     <a href="https://www.linkedin.com/in/jdsalasca/">
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-jdsalasca-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -14,13 +14,13 @@
 
 ---
 
-## Sobre mi
+## About me
 
-- Me interesan los proyectos creativos con impacto real.
-- Disfruto construir interfaces claras y backends robustos.
-- Abierto a nuevas ideas y colaboraciones.
+- I like creative projects with real impact.
+- I build clear interfaces and solid backends.
+- I am open to new ideas and collaborations.
 
-## Tech Stack (segun mis repos)
+## Tech stack (based on my repos)
 
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
@@ -30,28 +30,27 @@
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=111827" />
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
-  <img alt="SCSS" src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" />
   <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
 </p>
 
-## Estadisticas
+## Stats
 
 <p>
   <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jdsalasca&show_icons=true&hide_title=true&title_color=F97316&text_color=0F172A&icon_color=22C55E&bg_color=FFF7ED" />
   <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdsalasca&layout=compact&title_color=F97316&text_color=0F172A&icon_color=22C55E&bg_color=FFF7ED" />
 </p>
 
-## Cat Gallery
+## Cat lounge
 
 <div align="center">
-  <img src="https://placekitten.com/300/220" alt="Gato 1" />
-  <img src="https://placekitten.com/301/220" alt="Gato 2" />
-  <img src="https://placekitten.com/302/220" alt="Gato 3" />
-  <img src="https://placekitten.com/303/220" alt="Gato 4" />
+  <img src="assets/cats/cat-1.gif" alt="Cat gif 1" width="220" />
+  <img src="assets/cats/cat-2.gif" alt="Cat gif 2" width="220" />
+  <img src="assets/cats/cat-3.gif" alt="Cat gif 3" width="220" />
 </div>
 
-## Contacto
+## Contact
 
 - LinkedIn: https://www.linkedin.com/in/jdsalasca/
 - GitHub: https://github.com/jdsalasca
