@@ -36,13 +36,15 @@ Backend developer focused on Java and Spring Boot. I am curious, love challenges
 
 ## Stats
 
-<p>
-  <img alt="GitHub summary stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jdsalasca&theme=github" />
-  <img alt="Top languages by repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jdsalasca&theme=github" />
-</p>
-<p>
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=jdsalasca&theme=default&hide_border=true" />
-</p>
+<div align="center">
+  <img alt="Top languages by repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jdsalasca&theme=github_dark" />
+</div>
+
+## Activity Snapshot
+
+<div align="center">
+  <img alt="GitHub profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jdsalasca&theme=github_dark" />
+</div>
 
 ## Old-school One Piece corner
 
