@@ -37,8 +37,11 @@ Backend developer focused on Java and Spring Boot. I am curious, love challenges
 ## Stats
 
 <p>
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jdsalasca&show_icons=true&hide_title=true&title_color=F97316&text_color=0F172A&icon_color=22C55E&bg_color=FFF7ED" />
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdsalasca&layout=compact&title_color=F97316&text_color=0F172A&icon_color=22C55E&bg_color=FFF7ED" />
+  <img alt="GitHub summary stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jdsalasca&theme=github" />
+  <img alt="Top languages by repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jdsalasca&theme=github" />
+</p>
+<p>
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=jdsalasca&theme=default&hide_border=true" />
 </p>
 
 ## Old-school One Piece corner
