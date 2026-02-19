@@ -1,7 +1,7 @@
-﻿<div align="center">
+<div align="center">
   <img src="assets/cats/banner-onepiece.jpg" alt="One Piece banner" width="900" />
   <h1>Hello, I am Juan David Salas Camargo</h1>
-  <p>I build useful, clean, and memorable products. I enjoy solving hard problems and collaborating with curious teams.</p>
+  <p>I build useful, clean, and memorable products for developers and teams.</p>
 
   <p>
     <a href="https://www.linkedin.com/in/jdsalasca/">
@@ -10,6 +10,9 @@
     <a href="https://github.com/jdsalasca">
       <img alt="GitHub" src="https://img.shields.io/badge/GitHub-jdsalasca-111827?style=for-the-badge&logo=github&logoColor=white" />
     </a>
+    <a href="https://github.com/sponsors/jdsalasca">
+      <img alt="Sponsor" src="https://img.shields.io/badge/Sponsor-Open%20Source%20Work-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" />
+    </a>
   </p>
 </div>
 
@@ -17,7 +20,22 @@
 
 ## About me
 
-Backend developer focused on Java and Spring Boot. I am curious, love challenges, and enjoy learning new things. I care about contributing to my community, and I am eager to grow and create impact in a new world. If you want to build something meaningful together, feel free to reach out.
+I am a backend engineer focused on Java and Spring Boot, with a strong interest in developer tooling and practical open source utilities.
+
+I publish tools to make daily engineering work simpler: better validation, safer data handling, cleaner APIs, and faster delivery for small teams.
+
+## Why sponsor my work
+
+Open source is part of my long-term mission. I build in public because I believe useful software should be accessible, understandable, and maintained with care.
+
+If my projects saved you time, reduced bugs, or helped your team move faster, your sponsorship helps me keep going:
+
+- Maintain and improve existing libraries.
+- Add production-ready examples and documentation.
+- Respond to issues and community requests faster.
+- Keep everything free and focused on real-world impact.
+
+<a href="https://github.com/sponsors/jdsalasca">Support my open source journey on GitHub Sponsors</a>
 
 ## Tech stack (based on my repos)
 
@@ -58,4 +76,4 @@ Backend developer focused on Java and Spring Boot. I am curious, love challenges
 
 - LinkedIn: https://www.linkedin.com/in/jdsalasca/
 - GitHub: https://github.com/jdsalasca
- - Thanks for stopping by! 🙌
+- Sponsors: https://github.com/sponsors/jdsalasca
