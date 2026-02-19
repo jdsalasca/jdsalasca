@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/cats/banner-onepiece.jpg" alt="One Piece banner" width="900" />
-  <h1>Hello, I am Juan David Salas Camargo</h1>
-  <p>I build useful, clean, and memorable products for developers and teams.</p>
+  <h1>Juan David Salas Camargo</h1>
+  <p>Backend engineer building practical, production-ready open source for developers and product teams.</p>
 
   <p>
     <a href="https://www.linkedin.com/in/jdsalasca/">
@@ -10,32 +10,33 @@
     <a href="https://github.com/jdsalasca">
       <img alt="GitHub" src="https://img.shields.io/badge/GitHub-jdsalasca-111827?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    <a href="https://github.com/sponsors/jdsalasca">
-      <img alt="Sponsor" src="https://img.shields.io/badge/Sponsor-Open%20Source%20Work-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" />
-    </a>
   </p>
 </div>
 
 ---
 
-## About me
+## About
 
-I am a backend engineer focused on Java and Spring Boot, with a strong interest in developer tooling and practical open source utilities.
+I focus on backend systems with Java and Spring Boot, and I also build developer tooling that helps teams ship faster with fewer production issues.
 
-I publish tools to make daily engineering work simpler: better validation, safer data handling, cleaner APIs, and faster delivery for small teams.
+My goal is simple: create tools that are easy to adopt, well-documented, and useful in real-world engineering work.
 
-## Why sponsor my work
+## Sponsor my open source
 
-Open source is part of my long-term mission. I build in public because I believe useful software should be accessible, understandable, and maintained with care.
+<div align="center">
+  <a href="https://github.com/sponsors/jdsalasca">
+    <img alt="Sponsor on GitHub" src="https://img.shields.io/badge/Sponsor%20on%20GitHub-Support%20My%20Open%20Source-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" />
+  </a>
+</div>
 
-If my projects saved you time, reduced bugs, or helped your team move faster, your sponsorship helps me keep going:
+If my projects have helped your team save time, reduce bugs, or ship faster, sponsoring helps me keep this work sustainable.
 
-- Maintain and improve existing libraries.
-- Add production-ready examples and documentation.
-- Respond to issues and community requests faster.
-- Keep everything free and focused on real-world impact.
+Your sponsorship directly supports:
 
-<a href="https://github.com/sponsors/jdsalasca">Support my open source journey on GitHub Sponsors</a>
+- Ongoing maintenance and faster fixes.
+- Better documentation and production examples.
+- New features prioritized by community demand.
+- Long-term support for free, open tools.
 
 ## Tech stack (based on my repos)
 
