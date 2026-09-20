@@ -47,10 +47,6 @@ Fan of old-school One Piece.
 
 ---
 
-I'm not great at self-promotion, so this profile is short on purpose.
-
 If you want to talk about backend, games or cats: [LinkedIn](https://www.linkedin.com/in/jdsalasca/) · [GitHub](https://github.com/jdsalasca)
 
-And if something I made saved you some time, you can [buy me a coffee](https://github.com/sponsors/jdsalasca).
-
-<sub>Last updated: September 2026 — gracias por pasar :paw_prints:</sub>
+And if you feel like it, [a coffee](https://github.com/sponsors/jdsalasca) is always welcome.
