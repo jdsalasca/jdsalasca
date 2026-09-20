@@ -1,59 +1,57 @@
 <div align="center">
-  <img src="assets/banner.jpg" alt="Gon y Killua chocando los puños" width="100%" />
+  <img src="assets/banner.jpg" alt="Gon and Killua bumping fists" width="100%" />
 </div>
 
 # Juan David Salas Camargo
 
-Hola, soy Juan David: desarrollador backend en Colombia. Mi bio dice que soy
-marcian, no lo desmiento.
+Hi, I'm Juan David — a backend developer from Colombia, still figuring things out.
 
-Trabajo con Java y Spring Boot, y en las noches el teclado se me va hacia Godot,
-el pixel art y experimentos que empiezan con "¿y si...?".
+My bio says I'm a marcian. I won't deny it.
+
+I work with Java and Spring Boot. At night the keyboard drifts toward Godot,
+pixel art, and experiments that start with "what if...?". Most of them stay
+unfinished, and honestly, that's part of the fun.
 
 <div align="center">
-  <img src="assets/gatos/gato-programador.gif" alt="gato negro escribiendo en un MacBook" width="220" />
+  <img src="assets/gatos/gato-programador.gif" alt="black cat typing on a MacBook" width="220" />
 </div>
 
-## En lo que ando ahora
+## What I'm working on
 
-- **open-civic-signal-os** — convertir señales ciudadanas en un backlog público que se pueda auditar.
-- **free-subs** — subtítulos en español, inglés y mandarín que corren enteros en tu máquina.
-- **harness-moon** — un sistema operativo de agentes local, con TDD y MCP.
-- **odiseum** + **aseprite-asset-mcp** — un RPG cozy en Godot y la fábrica de pixel art que lo alimenta.
+- **free-subs** — subtitles in Spanish, English and Mandarin, generated entirely
+  on your machine. Still early, but I use it every day.
 
-## Cosas que hice y me gusta cómo quedaron
+## Things I made that I actually like
 
-- **sdd-tool** — un CLI que convierte requerimientos en specs, arquitectura, pruebas y documentación.
-- **solvejs** — utilidades para JavaScript y TypeScript sin una sola dependencia.
-- **muisca** — sandbox 2D con agricultura, estaciones y sociedades.
-- **JuegoDefinitivo** — el RPG de la universidad que se negó a morir.
-- **KombaOS** — inventarios y trazabilidad para talleres artesanales.
-- **unad-centaurus** — el proyecto de la UNAD donde aprendí más de lo que esperaba.
+- **solvejs** — small utilities for JavaScript and TypeScript, no dependencies.
+  I built it for my own projects; if it helps someone else, even better.
 
-## Con qué trabajo
+## What I use
 
 Java · Spring Boot · TypeScript · React · Python · Godot · PostgreSQL · Docker · Git
 
-## Fuera del teclado
+## Away from the keyboard
 
-Gatos, anime viejo, música de 8 bits y estudiar en la UNAD (estudiar y trabajar
-a la vez sí es de valientes).
+Cats, old anime, 8-bit music, and studying at UNAD — studying while working is
+for the brave, honestly.
 
-Fan de One Piece de la vieja escuela.
+Fan of old-school One Piece.
 
 <div align="center">
-  <img src="assets/gatos/gatito-codigo.gif" alt="gatito naranja mirando código" width="190" />
-  <img src="assets/gatos/gatito-bebe.gif" alt="gatito bebé siendo acariciado" width="200" />
+  <img src="assets/gatos/gatito-codigo.gif" alt="orange kitten looking at code" width="190" />
+  <img src="assets/gatos/gatito-bebe.gif" alt="tiny kitten being petted" width="200" />
 </div>
 
 <div align="center">
-  <img src="assets/anime/chopper.gif" alt="Chopper bailando" width="200" />
+  <img src="assets/anime/chopper.gif" alt="Chopper dancing" width="200" />
 </div>
 
 ---
 
-Si quieres hablar de backend, juegos o gatos: [LinkedIn](https://www.linkedin.com/in/jdsalasca/) · [GitHub](https://github.com/jdsalasca)
+I'm not great at self-promotion, so this profile is short on purpose.
 
-Y si algo de lo que hago te sirvió, puedes [invitarme un café](https://github.com/sponsors/jdsalasca).
+If you want to talk about backend, games or cats: [LinkedIn](https://www.linkedin.com/in/jdsalasca/) · [GitHub](https://github.com/jdsalasca)
 
-<sub>Actualizado: septiembre de 2026 :paw_prints:</sub>
+And if something I made saved you some time, you can [buy me a coffee](https://github.com/sponsors/jdsalasca).
+
+<sub>Last updated: September 2026 — gracias por pasar :paw_prints:</sub>
