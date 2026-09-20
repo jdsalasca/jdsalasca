@@ -32,8 +32,7 @@ Java · Spring Boot · TypeScript · React · Python · Godot · PostgreSQL · D
 
 ## Away from the keyboard
 
-Cats, old anime, 8-bit music, and studying at UNAD — studying while working is
-for the brave, honestly.
+Cats, old anime, 8-bit music, and studying at UNAD.
 
 Fan of old-school One Piece.
 
