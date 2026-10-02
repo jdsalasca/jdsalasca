@@ -25,6 +25,8 @@ unfinished, and honestly, that's part of the fun.
 
 ## Things I made that I actually like
 
+- **aseprite-asset-mcp** — an MCP server that lets AI agents build pixel-art assets
+  with Aseprite and export them to Godot. Just hit 1.0 and it's on npm.
 - **solvejs** — small utilities for JavaScript and TypeScript, no dependencies.
   I built it for my own projects; if it helps someone else, even better.
 
