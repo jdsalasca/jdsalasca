@@ -14,7 +14,8 @@ unfinished, and honestly, that's part of the fun.
 
 <div align="center">
   <img src="assets/gatos/gato-programador.gif" alt="black cat typing on a MacBook" width="220" />
-  <img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/4cd7dcc1-3019-495b-a407-7ecbc9ea653e" />
+  <img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/aac3d464-6cf8-4815-94ea-6384e947f787.gif" />
+
 
 </div>
 
